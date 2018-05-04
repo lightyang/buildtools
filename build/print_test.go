@@ -26,7 +26,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/bazelbuild/buildtools/tables"
+	"github.com/lightyang/buildtools/tables"
 )
 
 // exists reports whether the named file exists.

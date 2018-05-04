@@ -19,7 +19,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/bazelbuild/buildtools/build"
+	"github.com/lightyang/buildtools/build"
 )
 
 // splitOptionsWithSpaces is a cleanup function.

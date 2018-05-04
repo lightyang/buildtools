@@ -20,8 +20,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/bazelbuild/buildtools/edit"
-	"github.com/bazelbuild/buildtools/tables"
+	"github.com/lightyang/buildtools/edit"
+	"github.com/lightyang/buildtools/tables"
 )
 
 var (

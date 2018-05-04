@@ -25,9 +25,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/bazelbuild/buildtools/build"
-	"github.com/bazelbuild/buildtools/tables"
-	"github.com/bazelbuild/buildtools/wspace"
+	"github.com/lightyang/buildtools/build"
+	"github.com/lightyang/buildtools/tables"
+	"github.com/lightyang/buildtools/wspace"
 )
 
 var (

@@ -31,9 +31,9 @@ import (
 	"strconv"
 	"strings"
 
-	apipb "github.com/bazelbuild/buildtools/api_proto"
-	"github.com/bazelbuild/buildtools/build"
-	"github.com/bazelbuild/buildtools/file"
+	apipb "github.com/lightyang/buildtools/api_proto"
+	"github.com/lightyang/buildtools/build"
+	"github.com/lightyang/buildtools/file"
 	"github.com/golang/protobuf/proto"
 )
 

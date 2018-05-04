@@ -23,7 +23,7 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/bazelbuild/buildtools/tables"
+	"github.com/lightyang/buildtools/tables"
 )
 
 // Parse parses the input data and returns the corresponding parse tree.

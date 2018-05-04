@@ -27,9 +27,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/bazelbuild/buildtools/build"
-	"github.com/bazelbuild/buildtools/differ"
-	"github.com/bazelbuild/buildtools/tables"
+	"github.com/lightyang/buildtools/build"
+	"github.com/lightyang/buildtools/differ"
+	"github.com/lightyang/buildtools/tables"
 )
 
 var buildifierVersion = "redacted"
